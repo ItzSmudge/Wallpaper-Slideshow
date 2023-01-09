@@ -14,7 +14,7 @@ interval_text = ["1 minute ",
                  "6 hours"
                  ]
 
-interval_list = [1, 600, 3600, 21600]
+interval_list = [60, 600, 3600, 21600]
 
 bg_color = "#292626"
 obj_bg_color = "#383736"
